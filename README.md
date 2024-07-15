@@ -1,14 +1,14 @@
-# Web aplikacija za vođenje evidencije dobrovoljnog darivanja krvi - backend
-Aplikacija sadrži sučelje donora i sučelje liječnika. 
+# Web Application for Tracking Voluntary Blood Donation - Backend
+The application includes both a donor interface and a doctor interface.
 
-## Funkcionalnosti sučelja donora
-- pregled osobnih podataka,
-- pregled povijesti darivanja krvi,
-- karta Hrvatske na kojoj su označena sva mjesta gdje korisnik može darivati krv,
-- kratka anketa koja se sastoji od niza pitanja kojima je cilj utvrditi prihvatljivost donora za darivanje krvi.
+## Donor Interface Functionalities
+- Viewing personal information
+- Viewing blood donation history
+- Map of Croatia showing all locations where the user can donate blood
+- Short survey consisting of questions aimed at determining the donor's eligibility for blood donation
 
-## Funkcionalnosti sučelja liječnika
-- pregled i pretraživanje svih registriranih donora, 
-- pregled osobnih podataka i povijesti darivanja svih donora,
-- dodavanje i brisanje provedenih darivanja krvi,
-- pretraživanje donora po krvnoj grupi i Rh faktoru.
+## Doctor Interface Functionalities
+- Viewing and searching all registered donors
+- Viewing personal information and donation history of all donors
+- Adding and deleting blood donations
+- Searching donors by blood type and Rh factor
